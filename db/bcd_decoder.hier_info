@@ -1,0 +1,41 @@
+|bcd_decoder
+entrada1 => saida1.IN0
+entrada1 => saida1.IN0
+entrada1 => saida5.IN0
+entrada1 => saida6.IN1
+entrada1 => saida7.IN1
+entrada2 => saida1.IN1
+entrada2 => saida7.IN0
+entrada2 => saida1.IN1
+entrada2 => saida4.IN0
+entrada2 => saida6.IN0
+entrada2 => saida6.IN0
+entrada2 => saida7.IN0
+entrada3 => saida2.IN1
+entrada3 => saida3.IN1
+entrada3 => saida6.IN0
+entrada3 => saida6.IN1
+entrada3 => saida7.IN1
+entrada3 => saida1.IN1
+entrada3 => saida1.IN1
+entrada3 => saida4.IN1
+entrada3 => saida7.IN1
+entrada4 => saida1.IN1
+entrada4 => saida2.IN1
+entrada4 => saida4.IN1
+entrada4 => saida5.IN1
+entrada4 => saida6.IN1
+entrada4 => saida6.IN1
+entrada4 => saida7.IN1
+entrada4 => saida1.IN1
+entrada4 => saida2.IN1
+entrada4 => saida3.IN1
+saida1 <= saida1.DB_MAX_OUTPUT_PORT_TYPE
+saida2 <= saida2.DB_MAX_OUTPUT_PORT_TYPE
+saida3 <= saida3.DB_MAX_OUTPUT_PORT_TYPE
+saida4 <= saida4.DB_MAX_OUTPUT_PORT_TYPE
+saida5 <= saida5.DB_MAX_OUTPUT_PORT_TYPE
+saida6 <= saida6.DB_MAX_OUTPUT_PORT_TYPE
+saida7 <= saida7.DB_MAX_OUTPUT_PORT_TYPE
+
+

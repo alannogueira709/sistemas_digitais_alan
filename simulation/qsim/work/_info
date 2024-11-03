@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\bcd_decoder\simulation\qsim
+vbcd_decoder
+Z1 Id0FeoVeNR8iO@nIXZiT?[1
+Z2 VSf9Wo;91E>5>HeVVgO@mM3
+Z3 dC:\altera\13.0sp1\bcd_decoder\simulation\qsim
+Z4 w1730648611
+Z5 8bcd_decoder.vo
+Z6 Fbcd_decoder.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 UXei2RcPTN=Yz4n_fkSEF3
+!s85 0
+Z10 !s108 1730648612.979000
+Z11 !s107 bcd_decoder.vo|
+Z12 !s90 -work|work|bcd_decoder.vo|
+!s101 -O0
+vbcd_decoder_vlg_check_tst
+!i10b 1
+!s100 9?M4P1TQZSG`58OmHjA[F2
+IAg1Bod9lYXg?G6DPMg^gc3
+V7a]nfP_z0NomBhS7M7[Ne0
+R3
+R4
+Z13 8bcd_decoder.vt
+Z14 Fbcd_decoder.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z15 !s108 1730648613.115000
+Z16 !s107 bcd_decoder.vt|
+Z17 !s90 -work|work|bcd_decoder.vt|
+!s101 -O0
+R8
+vbcd_decoder_vlg_sample_tst
+!i10b 1
+!s100 ;=UE@i581CmkNc`fU@N_a3
+ImdMUgLzdDLazLcm`RFYen2
+VzIcVIJ<_2PO9VPPdM;TaG0
+R3
+R4
+R13
+R14
+L0 29
+R7
+r1
+!s85 0
+31
+R15
+R16
+R17
+!s101 -O0
+R8
+vbcd_decoder_vlg_vec_tst
+!i10b 1
+!s100 cCdI5>4;GdHgAXdI`[0on2
+IzRbi0JOKzZj>GeWb;4L?K0
+V9K8bY[lbQiP<aN2mNzDc61
+R3
+R4
+R13
+R14
+L0 320
+R7
+r1
+!s85 0
+31
+R15
+R16
+R17
+!s101 -O0
+R8
